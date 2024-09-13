@@ -1,4 +1,4 @@
 qemu_url: 'https://github.com/jjeongxu/kafl.qemu'
-qemu_revision: 'v0.9'
+qemu_revision: 'main'
 qemu_root: "{{ kafl_install_root }}/qemu"
 qemu_build_type: "static"
